@@ -1,0 +1,11 @@
+item_id,item_name,category,price,cost
+1,Margherita Pizza,Entree,12.00,4.00
+2,Pepperoni Pizza,Entree,14.00,5.00
+3,Caesar Salad,Appetizer,8.50,2.50
+4,Garlic Bread,Appetizer,5.00,1.20
+5,Spaghetti Bolognese,Entree,13.50,4.80
+6,Grilled Salmon,Entree,18.00,7.00
+7,Cheesecake,Dessert,7.00,2.20
+8,Tiramisu,Dessert,7.50,2.50
+9,Latte,Beverage,4.50,0.80
+10,House Red Wine,Beverage,8.00,2.00

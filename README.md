@@ -1,7 +1,6 @@
 # Restaurant-Analytics
 
-## Project title: 
-Restaurant Sales Insights (SQL + Dashboard)
+**Project title:** Restaurant Sales Insights (SQL + Dashboard)
 
 ## Problem: 
 Which items and times drive revenue? What’s our AOV?
